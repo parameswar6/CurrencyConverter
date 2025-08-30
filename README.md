@@ -31,7 +31,7 @@ To run this project locally, simply clone the repository and open the index.html
 Bash
 
 # Clone the repository
-git clone [your-repository-url]
+git clone (https://github.com/parameswar6/CurrencyConverter.git)
 
 # Navigate into the project folder
 cd currency-converter
